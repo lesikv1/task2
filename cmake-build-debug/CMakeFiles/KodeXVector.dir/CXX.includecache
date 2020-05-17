@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mac/vector/KodeXVector.cpp
+KodeXVector.h
+/Users/mac/vector/KodeXVector.h
+
+/Users/mac/vector/KodeXVector.h
+string
+-
+sstream
+-
+
+/Users/mac/vector/main.cpp
+iostream
+-
+KodeXVector.cpp
+/Users/mac/vector/KodeXVector.cpp
+
